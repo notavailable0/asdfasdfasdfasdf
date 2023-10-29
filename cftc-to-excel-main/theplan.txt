@@ -1,0 +1,9 @@
+doing
+todo : website with all buttons
+todo : button-hyperlink to graph in plotly
+todo : plotly graphs https://plotly.com/python/interactive-html-export/
+                     https://medium.com/analytics-vidhya/plotly-subplots-plot-layering-2c31434da1bb
+todo : some basic new year frontend, let it look like a present
+todo : suricate db to skip long waiting queue
+todo : redo graphs when new data is fetched
+todo : get todolist

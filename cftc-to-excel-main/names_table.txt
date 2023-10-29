@@ -1,0 +1,66 @@
+S&P 500
+S&P 500 Mini
+Dow Jones
+Dow Jones Mini
+NASDAQ
+NASDAQ Mini
+RUSSEL 2000
+NIKKEI
+VIX
+30 Year Bond
+2 Year Note
+5 Year Note
+10 Year Note
+Federal Funds
+Ultra U.S. T-Bonds
+Ultra 10-year U.S. T-Notes
+BitCoin
+Euro
+Australischer Dollar
+Brasilianischer Real
+Britisches Pfund
+Japanischer Yen
+Kanadischer Dollar
+Mexikanischer Peso
+Neuseeland Dollar
+Russischer Rubel
+Schweizer Franken
+3 Monate Euro Dollar
+U.S. Dollar Index
+Gold
+Silber
+Platin
+Palladium
+Kupfer
+Aluminium
+Stahl
+Kohle
+Rohöl WTI
+Benzin
+Heizöl
+Erdgas
+Ethanol
+Chicago Ethanol
+Mais
+Weizen SRW
+Weizen HRW
+Reis
+Hafer
+Sojabohnen
+Sojabohnen Mehl
+Sojabohnen Öl
+Raps
+Kakao
+Baumwolle
+Orangensaft
+Kaffee
+Zucker
+Bauholz
+Lebendrind
+Mastrind
+Magerschwein
+Butter
+Fettarme Milch
+Milch III
+Milch IV
+Käse
